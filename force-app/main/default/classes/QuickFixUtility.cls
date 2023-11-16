@@ -3,9 +3,9 @@ public with sharing class QuickFixUtility {
 
     }
 
-    public string ProcessCheckReport(){
+    public string processCheckReport(){
 
-        
+
 
 
     }
